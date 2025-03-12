@@ -12,7 +12,7 @@
 
 ✔ Databases: MySQL, PostgreSQL, MongoDB, Redis, Nile Databases
 
-✔ Dev Tools: Docker, Git (GitHub, GitLab, Bitbucket), Jira, Trello, Asana
+✔ Dev Tools: Docker,Docker-Compose,Git (GitHub, GitLab, Bitbucket), Jira, Trello, Asana
 
 ✔ Cloud & Servers: AWS, Nginx, Digital Ocean, Apache
 
